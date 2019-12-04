@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	"github.com/ybalexdp/sample-grpc/pb"
+	"github.com/ybalexdp/sample-grpc_recovery/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 )
